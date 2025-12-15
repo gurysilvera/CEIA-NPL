@@ -13,7 +13,7 @@
   Este repositorio contiene los desafíos desarrollados durante el cursado de Procesamiento de Lenguaje Natural I. Cada desafío aborda diferentes técnicas y metodologías del PLN, desde vectorización básica hasta modelos de lenguaje con redes neuronales recurrentes.
   </div>
   <div style="flex: 1;">
-    <img src="imges/portada.png" />
+    <img src="images/portada.png" />
   </div>
 </div>
 
@@ -31,7 +31,7 @@ Aplicar las técnicas de vectorización de documentos **bag-of-words** y **TF-ID
 ### Contenido
   <div style="display: flex; gap: 20px;">
     <div style="flex: 1;">
-    <img src="imges/text-vector.jpg" />
+    <img src="images/text-vector.jpg" />
     </div>
     <div style="flex: 1;">
     <p>
@@ -71,7 +71,7 @@ Entrenar embeddings personalizados usando **Gensim Word2Vec** sobre un corpus de
   </p>
   </div>
   <div style="flex: 1;">
-    <img src="imges/marley.jpeg" />
+    <img src="images/marley.jpeg" />
   </div>
   </div>
 
@@ -87,7 +87,7 @@ Entrenar diferentes modelos en base a un texto de entrada para generar nuevas se
 ### Contenido
 <div style="display: flex; gap: 20px;">
 <div style="flex: 1;">
-  <img src="imges/alice.jpg" />
+  <img src="images/alice.jpg" />
 </div>
 <div style="flex: 1;">
   <p>
@@ -103,7 +103,7 @@ Entrenar diferentes modelos en base a un texto de entrada para generar nuevas se
   Este fue el desafío más complicado de resolver, debido a los tiempos de entrenamiento y pruebas que lleva cada modelo. La infraestructura se convirtió en un elemento crítico para poder llegar a resultados aceptables. 
   </p>
   <p>
-  <b>
+  
   </p>
 
 </div>
@@ -120,7 +120,7 @@ Construir un modelo traductor de **inglés a español** utilizando la arquitectu
 ### Contenido
 <div style="display: flex; gap: 20px;">
 <div style="flex: 1;">
-  <img src="imges/traductor.avif" />
+  <img src="images/traductor.avif" />
 </div>
 <div style="flex: 1;">
   <p>
@@ -140,8 +140,7 @@ Construir un modelo traductor de **inglés a español** utilizando la arquitectu
   COmo traductor podemos decir que muy mal, en los resultados de las pruebas se ve que no logra realizar traducciones correctas, ni siquiera cercanas. El corpus reducido limitó la capacidad de generalización del modelo.
   </p>
   <p>
-  <b>
-  Si embargo se ve como el modelo muestra señales qu está reconociendo la estructura del lenguaje, encuentra algunas correlaciones semánticas y de estructura gramatical, lo cual fue sorprendente, al menos  para mi, con un modelo tan pequeño.
+   Si embargo se ve como el modelo muestra señales qu está reconociendo la estructura del lenguaje, encuentra algunas correlaciones semánticas y de estructura gramatical, lo cual fue sorprendente, al menos  para mi, con un modelo tan pequeño.
 
   </p>
 
